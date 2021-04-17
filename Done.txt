@@ -1,0 +1,32 @@
+Completed:
+
+1) AuthorizeEmployer
+2) CategoryOptions
+3) Connect
+4) RegisterEmployer
+5) Messages
+6) IndustryOptions
+7) orgOptions
+8) notset_idx
+9) Footer
+10) EmployerAccount
+11) DeletePost
+12) Candi_idx
+13) Emp_idx
+14) Seekerauth
+15) AppliedJobs
+16) RegisterSeeker
+17) Logout
+18) SignIn
+19) Seeker details 
+20) seekerDetails
+21) Acceptapplication
+22) Rejectapplication
+23) index
+24) navbar
+25) viewApplicants
+26) signInEmployerModals
+27) jobPost 
+28) Applyjob
+-----------------------------------------------------TO BE UPDATED---------------------------------------------
+
